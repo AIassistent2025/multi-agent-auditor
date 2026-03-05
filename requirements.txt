@@ -1,0 +1,9 @@
+crewai
+langchain-community
+langchain-openai
+langchain-core
+pypdf
+duckduckgo-search
+yfinance
+pandas
+python-dotenv
